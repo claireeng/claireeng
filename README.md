@@ -1,12 +1,8 @@
+
+<h1 align="center">
 ### Hi there! :wave: I'm Claire! :raising_hand:
-
-- :woman_student: :books: I'm currently a Business Analytics student minoring in Financial Technology at SUSS 
-- :computer: :seedling: I’m working on honing on my machine learning skills 
-
-<br>
+</h1>
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="ipynb" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="55" height="55"/>
+I now work as a backend engineer in the financial sector. I enjoy working on data-intensive systems and exploring ways to integrate ML and analytics into backend workflows.
 </p>

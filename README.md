@@ -1,8 +1,8 @@
-
 <h1 align="center">
-Hi there! :wave: I'm Claire! :raising_hand:
+Hi there! :wave: I'm Claire!
 </h1>
 
 <p align="center">
-I now work as a backend engineer in the financial sector. I enjoy working on data-intensive systems and exploring ways to integrate ML and analytics into backend workflows.
+I'm a backend developer working in the financial sector. :computer: <br>&nbsp;<br>
+I enjoy building scalable backend systems and have a growing curiosity in applying machine learning and data analytics to backend development. :seedling:
 </p>

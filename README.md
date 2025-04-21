@@ -1,6 +1,6 @@
 
 <h1 align="center">
-### Hi there! :wave: I'm Claire! :raising_hand:
+Hi there! :wave: I'm Claire! :raising_hand:
 </h1>
 
 <p align="center">
